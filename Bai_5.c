@@ -1,3 +1,6 @@
+// TAXI TÍNH TIỀN CƯỚC (DONE)
+
+
 #include <stdio.h>
 int TinhTien(int km){
     if(km <= 1){
