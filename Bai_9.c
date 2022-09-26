@@ -1,3 +1,5 @@
+// SẮP XẾP MẢNG TĂNG DẦN
+
 #include <stdio.h>
 void NhapMang (int a[], int n){
     for (int i=0; i <n; i++){
